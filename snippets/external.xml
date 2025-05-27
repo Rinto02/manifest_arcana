@@ -51,7 +51,7 @@
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="arrow" />
   
    <!-- Face Unlock -->  
-  <project path="external/faceunlock" name="external_faceunlock" remote="pixel-gitlab-self-hosted" />
+  <project path="external/faceunlock" name="external_faceunlock" remote="rinto" />
   
   <!-- ProtonAosp -->
   <project path="external/colorkt" name="ProtonAOSP/android_external_colorkt" groups="pdk" remote="github" revision="sc-v2" />
@@ -73,6 +73,5 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" groups="pdk,linux,arm" clone-depth="1" remote="lineage" />
   
   <!-- Gapps -->
-  <project path="vendor/gms" name="vendor_google_pixel" remote="iu" clone-depth="1" />
     
 </manifest>
