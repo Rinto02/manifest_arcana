@@ -24,6 +24,10 @@
    <remote  name="rinto"
            fetch="https://github.com/rinto02"
            revision="refs/heads/12.1" />
+  
+   <remote  name="rinto02"
+           fetch="https://github.com/rinto02"
+           revision="refs/heads/12" />
            
   <remote  name="arrow"
            fetch="https://github.com/ArrowOS"
