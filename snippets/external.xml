@@ -73,5 +73,6 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" groups="pdk,linux,arm" clone-depth="1" remote="lineage" />
   
   <!-- Gapps -->
+<project path="vendor/gms" name="vendor_google_pixel" remote="rinto02" clone-depth="1" />
     
 </manifest>
