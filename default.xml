@@ -20,6 +20,10 @@
   <remote  name="aex"
            fetch="https://github.com/AospExtended"
            revision="refs/heads/12.x" />
+
+   <remote  name="rinto"
+           fetch="https://github.com/rinto02"
+           revision="refs/heads/12.1" />
            
   <remote  name="arrow"
            fetch="https://github.com/ArrowOS"
